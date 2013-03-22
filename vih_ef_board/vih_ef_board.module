@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the VIH EF Board feature.
- */
-
-include_once('vih_ef_board.features.inc');
